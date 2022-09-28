@@ -4,7 +4,16 @@
   <url>
     <loc>https://ioldboy.github.io/posts/undefined.html</loc>
     
-    <lastmod>2022-09-27</lastmod>
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioldboy.github.io/posts/undefined.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +22,7 @@
 
   <url>
     <loc>https://ioldboy.github.io/</loc>
-    <lastmod>2022-09-27</lastmod>
+    <lastmod>2022-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
